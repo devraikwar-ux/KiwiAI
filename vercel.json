@@ -1,4 +1,5 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "."
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
 }
