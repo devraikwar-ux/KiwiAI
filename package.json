@@ -1,0 +1,13 @@
+{
+  "name": "kiwi-ai",
+  "version": "1.0.0",
+  "description": "AI Tools Directory - 500+ Tools",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step needed for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
